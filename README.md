@@ -47,6 +47,14 @@
 
 ---
 
+### 📌 Featured Projects
+ 
+
+ 
+- **Github-Resume-Builder** — Auto Generate a professional Resume from your github username.
+
+---
+
 ### 🌱 Currently Learning
 
 - Java 
