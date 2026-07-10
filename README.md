@@ -50,8 +50,8 @@
 ### 🌱 Currently Learning
 
 - Java 
-- Clean automation & bot design patterns
-- DSA for interviews
+- Advanced Web Development
+- DSA
 
 ---
 
