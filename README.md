@@ -44,17 +44,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantdxx&theme=radical&hide_border=true" />
 </p>
-<!--
----
 
-### 📌 Featured Projects
-
-> Pin these on your GitHub profile (Profile → Customize your pins)
-
-- **[Project Name]** — Short one-line description of what it does and tech used
-- **[Project Name]** — Short one-line description of what it does and tech used
-- **[Project Name]** — Short one-line description of what it does and tech used
--->
 ---
 
 ### 🌱 Currently Learning
